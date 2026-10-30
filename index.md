@@ -14,9 +14,9 @@ independent app and is not affiliated with or endorsed by UCSC.
 
 ## Contact support
 
-[Open an issue](https://github.com/thadjudkins/locus-support/issues) describing what you were doing, what you
-expected, and what happened instead. A screenshot helps. Email support is
-coming soon.
+Email **[locus.genome.app@gmail.com](mailto:locus.genome.app@gmail.com)**
+with what you were doing, what you expected, and what happened instead. A
+screenshot helps.
 
 The quickest way is **••• → About & Help → Contact support** in the app. It
 fills in your app version, iOS version, and device model, and if Locus has

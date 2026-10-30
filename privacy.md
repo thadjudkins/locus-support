@@ -77,5 +77,5 @@ effective date.
 
 ## Contact
 
-Questions about this policy: [open an issue](https://github.com/thadjudkins/locus-support/issues). Email support is
-coming soon.
+Questions about this policy:
+[locus.genome.app@gmail.com](mailto:locus.genome.app@gmail.com).
